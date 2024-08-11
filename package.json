@@ -1,0 +1,23 @@
+{
+  "name": "random-str-msgg",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Isidro Yalet <isidroyalet@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legajo85042-4/random-str-msgg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/legajo85042-4/random-str-msgg/issues"
+  },
+  "homepage": "https://github.com/legajo85042-4/random-str-msgg#readme",
+  "bin": {
+    "random-str-msgg": "./bin/global.js"
+  }
+}
